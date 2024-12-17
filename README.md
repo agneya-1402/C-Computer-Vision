@@ -57,7 +57,7 @@ Compile the Program: Use clang++ or g++ to compile:
 
 ## Example
 
-1. Input Image: ![Input](https://github.com/agneya-1402/C-Computer-Vision/blob/main/suflower.jpeg)
+1. Input Image: ![Input](https://github.com/agneya-1402/C-Computer-Vision/blob/main/sunflower.jpeg)
 
 2. Edge-Detected Image: ![Output](https://github.com/agneya-1402/C-Computer-Vision/blob/main/%20.png)
 
