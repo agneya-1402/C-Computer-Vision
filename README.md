@@ -7,11 +7,9 @@ This project demonstrates how to use **OpenCV** in C++ to load an image and perf
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Requirements](#requirements)
-3. [Installation](#installation)
-4. [Code Explanation](#code-explanation)
-5. [How to Run](#how-to-run)
-6. [Output](#output)
-7. [License](#license)
+3. [How to Run](#how-to-run)
+4. [Output](#output)
+5. [License](#license)
 
 ---
 
@@ -59,7 +57,7 @@ Compile the Program: Use clang++ or g++ to compile:
 
 ## Example
 
-1. Input Image: ![Input](https://github.com/agneya-1402/C-Computer-Vision/blob/main/%suflower.jpeg)
+1. Input Image: ![Input](https://github.com/agneya-1402/C-Computer-Vision/blob/main/suflower.jpeg)
 
 2. Edge-Detected Image: ![Output](https://github.com/agneya-1402/C-Computer-Vision/blob/main/%20.png)
 
